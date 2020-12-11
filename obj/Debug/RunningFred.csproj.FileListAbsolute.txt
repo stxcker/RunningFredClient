@@ -1,0 +1,14 @@
+C:\buildslave\RunningFred\bin\Debug\RunningFred.exe.config
+C:\buildslave\RunningFred\bin\Debug\RunningFred.exe
+C:\buildslave\RunningFred\bin\Debug\RunningFred.pdb
+C:\buildslave\RunningFred\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\buildslave\RunningFred\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\buildslave\RunningFred\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\buildslave\RunningFred\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\buildslave\RunningFred\obj\Debug\RunningFred.csproj.ResolveComReference.cache
+C:\buildslave\RunningFred\obj\Debug\RunningFred.g.resources
+C:\buildslave\RunningFred\obj\Debug\RunningFred.Form1.resources
+C:\buildslave\RunningFred\obj\Debug\RunningFred.Properties.Resources.resources
+C:\buildslave\RunningFred\obj\Debug\RunningFred.csproj.GenerateResource.cache
+C:\buildslave\RunningFred\obj\Debug\RunningFred.exe
+C:\buildslave\RunningFred\obj\Debug\RunningFred.pdb
